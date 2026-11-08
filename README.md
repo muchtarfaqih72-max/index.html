@@ -10,7 +10,7 @@
 
     <!-- Header / Navigasi -->
     <header>
-        <h1>SMKN 1 Nusantara</h1>
+        <h1>SMPN 2 bangsal</h1>
         <nav>
             <a href="#beranda">Beranda</a>
             <a href="#profil">Profil</a>
